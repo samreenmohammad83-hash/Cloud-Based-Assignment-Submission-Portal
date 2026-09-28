@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.db
+backend/uploads/
+
+# Node
+node_modules/
+dist/
+
+# Secrets
+.env
+*.pem
+
+# IDE
+.vscode/
+.idea/
